@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+public/coin1.gif
+public/coin3.gif
+public/coin4.gif
+public/tea.gif
+public/tea2.gif
+public/tea3.gif
